@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827268342895",
+    "firebase_url": "https://faceageapp-73ea2.firebaseio.com",
+    "project_id": "faceageapp-73ea2",
+    "storage_bucket": "faceageapp-73ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827268342895:android:1797e3bd3942567542999a",
+        "android_client_info": {
+          "package_name": "com.sdkpub.face.age.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827268342895-mqrtjo1tiecnu0jmd4thehsmtupq103d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdkpub.face.age.photo",
+            "certificate_hash": "0dd798f386fdfd52269003a431aebee72653b67d"
+          }
+        },
+        {
+          "client_id": "827268342895-7kcu11osov905lt9u6d6mmpgh73gstt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jdgxCmg5sSIUWq6B_9iT7RTG5Q0dTvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827268342895-7kcu11osov905lt9u6d6mmpgh73gstt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

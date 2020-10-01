@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">FaceAge</string>
+
+
+    <string name="admob_showIntersitial_ad_unit_id" translatable="false">ca-app-pub-2976879956297104/2308147760</string>
+    <string name="banner_ad_unit_id" translatable="false">cca-app-pub-2976879956297104/8681984427</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2976879956297104~4004372811</string>
+
+
+<!--    <string name="facebook_banner" translatable="false">1673418152813101_1673421136146136</string>-->
+<!--    <string name="facebook_Intersitial" translatable="false">1673418152813101_1673419149479668</string>-->
+<!--    <string name="facebook_app_id" translatable="false">526424688014428</string>-->
+
+    <string name="ga_trackingId" translatable="false"></string>
+
+
+    <string name="take_photo">Take a photo</string>
+    <string name="title">how old am i looking like</string>
+    <string name="proccess">analyze now</string>
+    <string name="pick_image">Pick an image</string>
+    <string name="result_title">hmm.. i see you</string>
+    <string name="age">Age:</string>
+    <string name="please_take_pic">Please take a picture.</string>
+    <string name="no_face_detected">No faces detected. Please retake the picture.</string>
+    <string name="array_null">Face array is null</string>
+    <string name="eye_makeup">Eye makeup:</string>
+    <string name="lip_makeup">Lip makeup:</string>
+    <string name="happiness">Happiness</string>
+    <string name="anger">Anger</string>
+    <string name="disgust">Disgust</string>
+    <string name="sadness">Sadness</string>
+    <string name="neutral">Neutral</string>
+    <string name="surprise">Surprise</string>
+    <string name="fear">Fear</string>
+    <string name="very_light">Very light</string>
+    <string name="light">Light</string>
+    <string name="normal">Normal</string>
+    <string name="heavy">Heavy</string>
+    <string name="very_heavy">Very heavy</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="moustache">Moustache:</string>
+    <string name="beard">Beard:</string>
+    <string name="sideburns">Sideburns:</string>
+
+    <string name="coming_soon">premium is available soon</string>
+    <string name="share_now">share now</string>
+
+    <!--    Premium Card-->
+    <string name="get_premium">get premium now!</string>
+    <string name="no_ads">no ads.</string>
+    <string name="exposure_level">exposure level.</string>
+    <string name="hair_analyze">hair analyze.</string>
+    <string name="import_gallery">import from gallery.</string>
+    <string name="get_now">get now</string>
+    <string name="multiple_selection">Multiple Choice</string>
+    <string name="seeWallPapers">See Wallpapers</string>
+    <string name="speciallyselectedforyoubyAI">specially, selected for you. by the AI.</string>
+    <string name="speciallyselectedforyou">specially selected for you.</string>
+    <string name="bytheai">by the AI.</string>
+    <string name="setAsWallpaper">set as wallpaper</string>
+    <string name="succesfullySet">Successfully set!</string>
+    <string name="errorOccured">An error occured!</string>
+    <string name="takeaselfie">"take a selfie!"</string>
+    <string name="single_selection">Single Selection</string>
+    <string name="take_a_selfie">take a selfie!</string>
+
+
+</resources>

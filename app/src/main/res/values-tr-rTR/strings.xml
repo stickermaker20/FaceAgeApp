@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceAge</string>
+    <string name="age">Yaş:</string>
+    <string name="anger">Öfke</string>
+    <string name="array_null">Yüz dizisi boş</string>
+    <string name="beard">Sakal:</string>
+    <string name="disgust">Nefret</string>
+    <string name="eye_makeup">Göz makyajı:</string>
+    <string name="fear">Korku</string>
+    <string name="happiness">Mutluluk</string>
+    <string name="heavy">Aşırı</string>
+    <string name="light">Hafif</string>
+    <string name="lip_makeup">Dudak makyajı:</string>
+    <string name="moustache">Bıyık:</string>
+    <string name="neutral">Doğal</string>
+    <string name="no">Hayır</string>
+    <string name="no_face_detected">Hiçbir yüz algılanmadı. Lütfen resmi tekrar çekin.</string>
+    <string name="normal">Normal</string>
+    <string name="pick_image">Bir resim seçin</string>
+    <string name="please_take_pic">Lütfen bir resim çekin.</string>
+    <string name="proccess">Şimdi analiz et</string>
+    <string name="sadness">Üzüntü</string>
+    <string name="sideburns">favoriler:</string>
+    <string name="surprise">Şaşkınlık</string>
+    <string name="take_photo">Fotoğraf çek</string>
+    <string name="very_heavy">Çok ağır</string>
+    <string name="very_light">Çok hafif</string>
+    <string name="yes">Evet</string>
+    <string name="get_now">şimdi al</string>
+    <string name="import_gallery">galeriden içe aktar.</string>
+    <string name="hair_analyze">saç analizi</string>
+    <string name="no_ads">reklam yok</string>
+    <string name="get_premium">şimdi premiuma yükselt!</string>
+    <string name="share_now">paylaş</string>
+    <string name="coming_soon">premium en yakın zamanda sizlerle</string>
+    <string name="title" translatable="false">kaç yaşında gösteriyorum</string>
+    <string name="result_title" translatable="false">hmm.. seni görüyorum</string>
+    <string name="takeaselfie">özçekim yap</string>
+    <string name="errorOccured">bir hata meydana geldi</string>
+    <string name="succesfullySet">başarıyla güncellendi</string>
+    <string name="setAsWallpaper">duvar kağıdı olarak ayarla</string>
+    <string name="bytheai">Yapay Zeka tarafından.</string>
+    <string name="speciallyselectedforyou">Senin için özel olarak seçildi.</string>
+    <string name="speciallyselectedforyoubyAI">Senin için yapay zeka tarafından özel olarak seçildi</string>
+    <string name="seeWallPapers">Duvar kağıtlarını gör</string>
+    <string name="exposure_level">"maruz kalma seviyesi. "</string>
+    <string name="multiple_selection">Çoklu Seçim</string>
+    <string name="single_selection">Tekli Seçim</string>
+</resources>
